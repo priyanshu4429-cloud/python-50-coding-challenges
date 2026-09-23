@@ -1,6 +1,6 @@
 # Python Coding Challenge 193
 
-Write a Python function to solve challenge 193.
+Write a Python program to implement a priority queue.
 
 ```python
 def solve():
