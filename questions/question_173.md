@@ -1,6 +1,6 @@
 # Python Coding Challenge 173
 
-Write a Python function to solve challenge 173.
+Write a Python program to find the sum of the first n natural numbers.
 
 ```python
 def solve():
