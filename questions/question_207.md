@@ -1,6 +1,6 @@
 # Python Coding Challenge 207
 
-Write a Python function to solve challenge 207.
+Write a Python program to invert a binary tree.
 
 ```python
 def solve():
