@@ -1,6 +1,6 @@
 # Python Coding Challenge 196
 
-Write a Python function to solve challenge 196.
+Write a Python program to implement binary exponentiation.
 
 ```python
 def solve():
