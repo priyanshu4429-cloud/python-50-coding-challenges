@@ -1,6 +1,6 @@
 # Python Coding Challenge 101
 
-Write a Python function to solve challenge 101.
+Write a Python program to multiply two matrices.
 
 ```python
 def solve():
