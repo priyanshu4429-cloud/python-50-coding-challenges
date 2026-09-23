@@ -1,6 +1,6 @@
 # Python Coding Challenge 94
 
-Write a Python function to solve challenge 94.
+Write a Python program to flatten a nested list.
 
 ```python
 def solve():
