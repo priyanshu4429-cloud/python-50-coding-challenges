@@ -1,6 +1,6 @@
 # Python Coding Challenge 100
 
-Write a Python function to solve challenge 100.
+Write a Python program to transpose a matrix.
 
 ```python
 def solve():
