@@ -1,6 +1,6 @@
 # Python Coding Challenge 64
 
-Write a Python function to solve challenge 64.
+Write a Python program to remove duplicates from a list.
 
 ```python
 def solve():
