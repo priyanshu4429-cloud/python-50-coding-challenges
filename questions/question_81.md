@@ -1,6 +1,6 @@
 # Python Coding Challenge 81
 
-Write a Python function to solve challenge 81.
+Write a Python program to check if a key exists in a dictionary.
 
 ```python
 def solve():
