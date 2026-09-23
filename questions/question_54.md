@@ -1,6 +1,6 @@
 # Python Coding Challenge 54
 
-Write a Python function to solve challenge 54.
+Write a Python program to calculate the factorial of a number.
 
 ```python
 def solve():
