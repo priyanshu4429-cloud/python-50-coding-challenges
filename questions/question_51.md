@@ -1,6 +1,6 @@
 # Python Coding Challenge 51
 
-Write a Python function to solve challenge 51.
+Write a Python program to calculate the sum of two numbers.
 
 ```python
 def solve():
