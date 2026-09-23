@@ -1,6 +1,6 @@
 # Python Coding Challenge 126
 
-Write a Python function to solve challenge 126.
+Write a Python program to implement merge sort.
 
 ```python
 def solve():
