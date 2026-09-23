@@ -1,6 +1,6 @@
 # Python Coding Challenge 200
 
-Write a Python function to solve challenge 200.
+Write a Python program to implement an LRU cache.
 
 ```python
 def solve():
