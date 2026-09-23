@@ -1,6 +1,6 @@
 # Python Coding Challenge 244
 
-Write a Python function to solve challenge 244.
+Write a Python program to create a basic model in Django.
 
 ```python
 def solve():
